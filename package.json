@@ -1,0 +1,61 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "homepage": "https://easyeducationconsultant.co.in/",
+  "private": true,
+  "dependencies": {
+    "@material/menu": "^7.0.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@zendeskgarden/react-tabs": "^8.24.0",
+    "@zendeskgarden/react-theming": "^8.24.0",
+    "aos": "^2.3.4",
+    "bootstrap": "^4.5.0",
+    "bootstrap-toggle": "^2.2.2",
+    "carousel": "0.0.3",
+    "mdbreact": "^4.27.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-animated-slider": "^2.0.0",
+    "react-bootstrap-tabs": "^2.0.0",
+    "react-burger-menu": "^2.8.0",
+    "react-chat-widget": "^3.0.5",
+    "react-chat-window": "^1.2.1",
+    "react-dom": "^16.13.1",
+    "react-hamburger-menu": "^1.2.1",
+    "react-hero-carousel": "^1.0.3",
+    "react-icons": "^3.11.0",
+    "react-messenger-customer-chat": "^0.8.0",
+    "react-native-smart-carousel": "^1.1.0",
+    "react-push-menu": "^3.1.2",
+    "react-responsive-animate-navbar": "^1.1.8",
+    "react-responsive-carousel": "^3.2.10",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-sidebar": "^3.0.2",
+    "react-simple-chatbot": "^0.6.1",
+    "styled-components": "^5.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
